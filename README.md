@@ -1,2 +1,2 @@
-# diplay name
+# display name
 print(name)
